@@ -1,0 +1,13 @@
+This project makes use of the following open-source libraries:
+
+1. **Zsh-autosuggestions**
+   Repository: https://github.com/zsh-users/zsh-autosuggestions
+
+2. **Zsh-syntax-highlighting**
+   Repository: https://github.com/zsh-users/zsh-syntax-highlighting
+
+3. **Zsh**
+   Repository: https://www.zsh.org/
+
+4. **Starship**
+   Repository: https://starship.rs/
