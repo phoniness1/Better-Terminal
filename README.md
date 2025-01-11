@@ -21,7 +21,7 @@ This script automates the installation and configuration of ZSH, including plugi
 ###### 1. Download and execute the script using the command below:
 
 ```bash
-git clone https://gitlab.com/myPersonalStuffies/Better-Terminal.git && cd Better-Terminal && sudo bash zshInstall.sh && cd ..
+git clone https://github.com/Phoniness1/Better-Terminal.git && cd Better-Terminal && sudo bash zshInstall.sh && cd ..
 ```
 ##### 2. Pre-checks
 - Verifies root privileges.
